@@ -1,21 +1,19 @@
 
 .transactions {
-  width: 100%;
   margin-bottom: 20px;
+  width: 600px;
   border: 5px solid #fff;
-  border-top: 5px solid #fff;
-  border-bottom: 3px solid #fff;
+  border-top: 5px;
+  border-bottom: 3px; 
   border-collapse: collapse;
   font-size: 15px;
-  background: #fff !important;
-  width: 600px;
+  background-color: #fff;
 }
 .transactions th {
   font-weight: bold;
   padding: 7px;
   background: #88c0e0;
   border: none;
-  text-align: left;
   font-size: 25px;
   text-align: center;
   border-top: 3px solid #fff;
@@ -25,10 +23,10 @@
   padding: 7px;
   border: none;
   border-top: 3px solid #fff;
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px;
   font-size: 20px;
-  text-align: center;
+  text-align: center; 
 }
 .transactions tbody tr:nth-child(even) {
-  background: #f8f8f8 !important;
+  background-color: #f8f8f8;
 }
