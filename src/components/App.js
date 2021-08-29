@@ -1,12 +1,13 @@
+import user from '../user.json';
+import statisticalData from '../statistical-data.json';
+import friends from '../friends.json';
+import transactions from '../transactions.json';
+
 import SocialProfile from './SocialProfile/SocialProfile.jsx';
 import Statistics from './Statistics/Statistics.jsx';
 import FriendList from './FriendList/FriendList.jsx';
 import TransactionHistory from './TransactionHistory/TransactionHistory.jsx';
 
-import user from '../user.json';
-import statisticalData from '../statistical-data.json';
-import friends from '../friends.json';
-import transactions from '../transactions.json';
 
 export default function App() {
   return (
