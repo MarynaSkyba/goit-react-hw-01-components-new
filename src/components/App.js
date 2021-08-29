@@ -1,7 +1,7 @@
-import SocialProfile from './SocialProfile/SocialProfile';
-import Statistics from './Statistics/Statistics';
-import FriendList from './FriendList/FriendList';
-import TransactionHistory from './TransactionHistory/TransactionHistory';
+import SocialProfile from './SocialProfile/SocialProfile.jsx';
+import Statistics from './Statistics/Statistics.jsx';
+import FriendList from './FriendList/FriendList.jsx';
+import TransactionHistory from './TransactionHistory/TransactionHistory.jsx';
 
 import user from '../user.json';
 import statisticalData from '../statistical-data.json';
